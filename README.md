@@ -88,22 +88,22 @@ Apple Silicon only (M1 or newer Mac, recent iPhone or iPad). Most of these build
 
 | Project | ★ | Game | Runs on | Game version | Status | What it does |
 | --- | ---: | --- | --- | --- | --- | --- |
-| [nxnative](https://github.com/seedds/nxnative) | 14.4k | Many games | iPhone/iPad, Mac | – | 🧰 Tool | Turns your own NSP folder into an unsigned iPhone/iPad app or a Mac app: the game code is rewritten for ARM64 and drawn through Metal. Most Apple tools below build on it. |
-| [NX2Apple](https://github.com/LNPANDY/NX2Apple) | 5,921 | Many games | iPhone/iPad | – | 🧰 Tool | One-click Mac app that packs your own game into an iPhone or iPad app, no terminal. Has profiles for 147 games. |
+| [nxnative](https://github.com/seedds/nxnative) | 14.5k | Many games | iPhone/iPad, Mac | – | 🧰 Tool | Turns your own NSP folder into an unsigned iPhone/iPad app or a Mac app: the game code is rewritten for ARM64 and drawn through Metal. Most Apple tools below build on it. |
+| [NX2Apple](https://github.com/LNPANDY/NX2Apple) | 5,924 | Many games | iPhone/iPad | – | 🧰 Tool | One-click Mac app that packs your own game into an iPhone or iPad app, no terminal. Has profiles for 147 games. |
 | [d2r-mobile](https://github.com/jhaizhou-ops/d2r-mobile) 🤖 | 5,252 | Diablo II: Resurrected | iPhone/iPad, Mac, Android | – | 🟢 Playable | Runs your own Switch copy natively on iPhone, iPad, Mac and Android with full touch controls at a steady 60 fps. |
-| [S2Arm](https://github.com/jhaizhou-ops/S2Arm) | 2,342 | Many games | iPhone/iPad, Mac | – | 🧰 Tool | One app for your whole library on iPhone, iPad and Mac, with an in-game gear menu and an editable on-screen gamepad. Bring your own games and keys. |
+| [S2Arm](https://github.com/jhaizhou-ops/S2Arm) | 2,346 | Many games | iPhone/iPad, Mac | – | 🧰 Tool | One app for your whole library on iPhone, iPad and Mac, with an in-game gear menu and an editable on-screen gamepad. Bring your own games and keys. |
 | [ns-game-apple-arm-port](https://github.com/realskyrin/ns-game-apple-arm-port) 🤖 | 534 | Any game | iPhone/iPad, Mac | – | 🧰 Tool | Agent skill that walks a coding agent through porting a Switch game to Apple Silicon (macOS, iPadOS, iOS) with Rust and Metal. |
 | [LumaNX 璃游](https://github.com/Xc1Ym/LumaNX) | 292 | Many games | iPhone/iPad, Mac | – | 🧰 Tool | Chinese and English Mac GUI for nxnative: builds your games to run on the Mac and exports iPhone/iPad IPAs. |
 | [totk-mobile](https://github.com/OJZen/totk-mobile) | 209 | Tears of the Kingdom | iPhone/iPad, Mac | 1.4.3 | 🟡 Early | Experimental native port for Apple Silicon Macs and iPads, with an early iPhone build. Checks your files before building. |
-| [NX Play](https://github.com/varyform/nx-native-wrapper) 🤖 | 165 | Many games | iPhone/iPad, Mac | – | 🧰 Tool | Mac app to build, play, install and manage your nxnative games, on the Mac and on iPhone or iPad. |
+| [NX Play](https://github.com/varyform/nx-native-wrapper) 🤖 | 166 | Many games | iPhone/iPad, Mac | – | 🧰 Tool | Mac app to build, play, install and manage your nxnative games, on the Mac and on iPhone or iPad. |
 | [switch2mac](https://github.com/azmasm/switch2mac) | 155 | Many games, incl. Switch 2 | Mac | – | 🧰 Tool | Mac app that turns your own Switch and Switch 2 dumps into native Apple Silicon apps, with a game-case library view. Not an emulator. |
-| [MetalNX](https://github.com/krushant1122/MetalNX) | 81 | Many games | Mac | – | 🧰 Tool | One-click Switch-to-Mac port studio and graphics tweaker for M1 to M4 Macs, with a compatibility list. |
-| [GreenKid-MV](https://github.com/adi0900/GreenKid-MV) | 79 | Ocarina of Time (Switch 2) | Mac | – | 🧰 Tool | Game-free Mac builder for native Ocarina of Time (Switch 2) ports on Apple Silicon. Builds locally from your own dump. |
+| [MetalNX](https://github.com/krushant1122/MetalNX) | 82 | Many games | Mac | – | 🧰 Tool | One-click Switch-to-Mac port studio and graphics tweaker for M1 to M4 Macs, with a compatibility list. |
+| [GreenKid-MV](https://github.com/adi0900/GreenKid-MV) | 80 | Ocarina of Time (Switch 2) | Mac | – | 🧰 Tool | Game-free Mac builder for native Ocarina of Time (Switch 2) ports on Apple Silicon. Builds locally from your own dump. |
 | [kartnative](https://github.com/pahorema/kartnative) | 61 | Mario Kart World (Switch 2) | Mac | – | 🟢 Playable | Fork of nxnative with Switch 2 graphics (NVN2) on Metal. Whole Grand Prix cups play on Apple Silicon Macs. |
 | [ns2ios-shell](https://github.com/xinerqu/ns2ios-shell) | 48 | Many games | iPhone/iPad | – | 🧰 Tool | Pack an iPhone IPA on Windows, no Mac needed, from your own NSP and prod.keys. |
 | [totk-ios](https://github.com/NicholasDominici/totk-ios) 🤖 | 45 | Tears of the Kingdom | iPhone/iPad | – | 🟡 Early | Experimental native build for iPad and iPhone, made into a personal app from your own game files. |
 | [manosaba-ios](https://github.com/iceorange-dev/manosaba-ios) | 38 | Tears of the Kingdom, 魔法少女ノ魔女裁判 | iPhone/iPad, Mac | – | 🟡 Early | Tears of the Kingdom on iPhone and Mac, and 魔法少女ノ魔女裁判 on iPhone, iPad and Mac. Based on d2r-mobile. |
-| [HookLink](https://github.com/dsi-hub/HookLink) | 35 | Ocarina of Time (Switch 2) | iPhone/iPad | – | – | Ocarina of Time (Switch 2 Edition) on iPhone, built on your Mac from your own copy of the game. |
+| [HookLink](https://github.com/dsi-hub/HookLink) | 36 | Ocarina of Time (Switch 2) | iPhone/iPad | – | – | Ocarina of Time (Switch 2 Edition) on iPhone, built on your Mac from your own copy of the game. |
 | [AC-Recomp](https://github.com/swaymun/AC-Recomp) 🤖 | 29 | Astral Chain | Mac, Windows, Linux | – | 🟡 Early | Experimental static recompilation for macOS, with early Windows and Linux builds. Reaches the File 01 motorcycle chase. |
 | [nxnative-easy](https://github.com/nalancer08/nxnative-easy) | 23 | Many games | iPhone/iPad, Mac | – | 🧰 Tool | One-command nxnative setup: complete Mac apps, lightweight iPhone builds, Xbox and PlayStation controllers, editable touch controls. |
 <!-- END apple -->
@@ -115,23 +115,23 @@ Each game is its own project, and each one supports only the game versions in it
 
 | Project | ★ | Game | Runs on | Game version | Status | What it does |
 | --- | ---: | --- | --- | --- | --- | --- |
-| [totk-pc-recomp](https://github.com/valentderah/totk-pc-recomp) 🤖 | 6,363 | Tears of the Kingdom | Windows, Linux | – | 🟢 Playable | Static recompilation to native Windows and Linux with a Vulkan renderer. Playable; visual bugs and crashes still expected. |
-| [Hookshot](https://github.com/NotRexed/Hookshot) | 6,204 | Ocarina of Time (Switch 2) | Windows, Linux | – | 🟢 Playable | Native recompilation of the Switch 2 Ocarina of Time remake, with an in-game menu, frame generation and upscaling. Contains no game, keys or executable. |
-| [SavageWindRecomp](https://github.com/Revivedx/SavageWindRecomp) 🤖 | 3,788 | Breath of the Wild | Windows, Linux | 1.9.0 | 🟡 Early | Alpha static recompilation for Windows and Linux, made almost entirely with AI. No game files, keys or dumping tools included. |
+| [totk-pc-recomp](https://github.com/valentderah/totk-pc-recomp) 🤖 | 6,366 | Tears of the Kingdom | Windows, Linux | – | 🟢 Playable | Static recompilation to native Windows and Linux with a Vulkan renderer. Playable; visual bugs and crashes still expected. |
+| [Hookshot](https://github.com/NotRexed/Hookshot) | 6,234 | Ocarina of Time (Switch 2) | Windows, Linux | – | 🟢 Playable | Native recompilation of the Switch 2 Ocarina of Time remake, with an in-game menu, frame generation and upscaling. Contains no game, keys or executable. |
+| [SavageWindRecomp](https://github.com/Revivedx/SavageWindRecomp) 🤖 | 3,791 | Breath of the Wild | Windows, Linux | 1.9.0 | 🟡 Early | Alpha static recompilation for Windows and Linux, made almost entirely with AI. No game files, keys or dumping tools included. |
 | [LASRecomp](https://github.com/peiikai/LASRecomp) 🤖 | 2,300 | Link's Awakening | Mac, Windows, Linux | 1.0.0 / 1.0.1 / 1.1.0 | 🟢 Playable | Beta static recompilation for Windows, Linux and macOS, made almost entirely with AI. Several other recomps here build on it. |
 | [ultratears](https://github.com/kuraeow/ultratears) | 853 | Tears of the Kingdom | Windows, Linux, Steam Deck | 1.4.3 | – | Unofficial native PC and Steam Deck port that builds locally from your own extracted dump. |
-| [dkb-pc-recomp](https://github.com/Lucas-blip-png/dkb-pc-recomp) 🤖 | 693 | Donkey Kong Bananza (Switch 2) | Windows | – | 🟡 Early | Static recompilation to native Windows with Vulkan. Plays through the first stage; still early and can crash. |
+| [dkb-pc-recomp](https://github.com/Lucas-blip-png/dkb-pc-recomp) 🤖 | 695 | Donkey Kong Bananza (Switch 2) | Windows | – | 🟡 Early | Static recompilation to native Windows with Vulkan. Plays through the first stage; still early and can crash. |
 | [B2recomp](https://github.com/K0NL/B2recomp) 🤖 | 595 | Bayonetta 2 | Windows | 1.2 | 🟢 Playable | Unofficial static recompilation for Windows, built on your PC from your own dump. Beta. |
-| [Recompia](https://github.com/Dittobyte/Recompia) 🤖 | 538 | Pokémon Pokopia (Switch 2) | Windows, Linux, Steam Deck | 2.0.1a | 🟢 Playable | Native Windows build with Linux and handheld support, multiplayer, mods and keyboard and mouse. |
+| [Recompia](https://github.com/Dittobyte/Recompia) 🤖 | 539 | Pokémon Pokopia (Switch 2) | Windows, Linux, Steam Deck | 2.0.1a | 🟢 Playable | Native Windows build with Linux and handheld support, multiplayer, mods and keyboard and mouse. |
 | [Metroid-Dread-Recomp](https://github.com/yozander2009-stack/Metroid-Dread-Recomp) 🤖 | 391 | Metroid Dread | Windows, Linux | – | 🟡 Early | Static recompilation with a bundled compiler, a play and settings screen and an in-game menu. Current 0.x builds are early previews. |
 | [Weeping of the Empire](https://github.com/daniel-madrid-07/weeping-of-the-empire) 🤖 | 315 | Tears of the Kingdom | Windows | 1.0.0 (1.4.3 beta) | 🟢 Playable | Native Windows and Vulkan build with a frame cap up to 240, DLSS and mouse and keyboard. Mostly written by AI agents. |
-| [xc2-recomp](https://github.com/AksharDP/xc2-recomp) 🤖 | 288 | Xenoblade Chronicles 2 | Windows | 3.0.0 | 🟡 Early | Static recompilation to native Windows with Vulkan. Boots to the title screen and runs New Game through the opening. |
+| [xc2-recomp](https://github.com/AksharDP/xc2-recomp) 🤖 | 290 | Xenoblade Chronicles 2 | Windows | 3.0.0 | 🟡 Early | Static recompilation to native Windows with Vulkan. Boots to the title screen and runs New Game through the opening. |
 | [letsgo-recomp](https://github.com/raulzrrs/letsgo-recomp) | 287 | Pokémon: Let's Go, Eevee! | Windows | 1.0.0 | 🟡 Early | Native Windows port built on LAS Recomp. Work in progress: not yet played start to finish. |
-| [xcx-recomp](https://github.com/jmars125/xcx-recomp) 🤖 | 284 | Xenoblade Chronicles X: Definitive Edition | Windows, Linux, Steam Deck | 2.0.0 | 🟡 Early | Static recompilation to native Windows with Vulkan. New Game, cutscenes and gameplay run. |
-| [mkw-recomp](https://github.com/adriadam10/mkw-recomp) 🤖 | 269 | Mario Kart World (Switch 2) | Windows, Linux | 1.0.0 | 🟡 Early | Static recompilation to a native PC program. Boots, plays the intro and races on Linux and Windows; some menus still need work. |
+| [xcx-recomp](https://github.com/jmars125/xcx-recomp) 🤖 | 285 | Xenoblade Chronicles X: Definitive Edition | Windows, Linux, Steam Deck | 2.0.0 | 🟡 Early | Static recompilation to native Windows with Vulkan. New Game, cutscenes and gameplay run. |
+| [mkw-recomp](https://github.com/adriadam10/mkw-recomp) 🤖 | 274 | Mario Kart World (Switch 2) | Windows, Linux | 1.0.0 | 🟡 Early | Static recompilation to a native PC program. Boots, plays the intro and races on Linux and Windows; some menus still need work. |
 | [OpenSmash Ultimate](https://github.com/OpenSmash-Ultimate/OpenSmash-Ultimate) 🤖 | 129 | Super Smash Bros. Ultimate | Windows, Linux | 13.0.4 | 🟢 Playable | The whole game as a native PC program: every mode, DLC fighters and stages, with an installer. Formerly ssbu-recomp. |
 | [EoWRecomp](https://github.com/Nycolazs/EoWRecomp) 🤖 | 119 | Echoes of Wisdom | Windows, Linux, Android | 1.0.0 | 🟡 Early | Static recompilation to native PC, with an alpha Android app. Boots and plays the opening. |
-| [MKW-THWOMP](https://github.com/STS78721/MKW-THWOMP) | 108 | Mario Kart World (Switch 2) | Windows | 1.8.0 | 🟡 Early | Static recompilation to native Windows with Vulkan. Intro, title and menus render and races load; not fully playable yet. |
+| [MKW-THWOMP](https://github.com/STS78721/MKW-THWOMP) | 110 | Mario Kart World (Switch 2) | Windows | 1.8.0 | 🟡 Early | Static recompilation to native Windows with Vulkan. Intro, title and menus render and races load; not fully playable yet. |
 | [totk-recomp](https://github.com/Muhammad1259-sigma/totk-recomp) | 104 | Tears of the Kingdom | Linux, Steam Deck | 1.0.0 | – | Static recompilation to native Linux x86-64, aimed at the Steam Deck. Bring your own dump and keys. |
 | [xc3-recomp](https://github.com/jmars125/xc3-recomp) 🤖 | 98 | Xenoblade Chronicles 3 | Windows, Linux, Steam Deck | 2.2.1 | 🟢 Playable | Playable from New Game through the story, cutscenes and battles, with all four DLC packs. |
 | [totk-launcher](https://github.com/FurkanAnc/totk-launcher) | 89 | Tears of the Kingdom | Windows | – | 🧰 Tool | Launcher for the TotK PC recomp: settings, key rebinding, keyboard prompts, achievements and save backups. |
@@ -153,13 +153,13 @@ Phones and Android handhelds (AYN Odin and Thor, Retroid Pocket). A recent Snapd
 
 | Project | ★ | Game | Runs on | Game version | Status | What it does |
 | --- | ---: | --- | --- | --- | --- | --- |
-| [BOTWRecompAndroid](https://github.com/mamcjr/BOTWRecompAndroid) 🤖 | 726 | Breath of the Wild | Android | 1.0.0 / 1.6.0 / 1.8.2 | 🟢 Playable | Static recompilation for Android: playable from the title screen into the world, with saves and touch controls. |
-| [TOTKDroid](https://github.com/mamcjr/TOTKDroid) 🤖 | 226 | Tears of the Kingdom | Android | 1.4.3 | – | Native Android build with touch controls, mods and a wide-screen option. Formerly TOTKRecompAndroid. |
-| [totk-android](https://github.com/AurelioB/totk-android) | 135 | Tears of the Kingdom | Android | 1.4.3 | – | Native Android port that draws menus, map and text at the screen's own resolution and backs up saves. |
+| [BOTWRecompAndroid](https://github.com/mamcjr/BOTWRecompAndroid) 🤖 | 729 | Breath of the Wild | Android | 1.0.0 / 1.6.0 / 1.8.2 | 🟢 Playable | Static recompilation for Android: playable from the title screen into the world, with saves and touch controls. |
+| [TOTKDroid](https://github.com/mamcjr/TOTKDroid) 🤖 | 227 | Tears of the Kingdom | Android | 1.4.3 | – | Native Android build with touch controls, mods and a wide-screen option. Formerly TOTKRecompAndroid. |
+| [totk-android](https://github.com/AurelioB/totk-android) | 136 | Tears of the Kingdom | Android | 1.4.3 | – | Native Android port that draws menus, map and text at the screen's own resolution and backs up saves. |
 | [DOOM Mobile](https://github.com/Desm0nt/doom-port) | 85 | DOOM (2016) | Android | – | 🟢 Playable | The Switch release of DOOM running natively on ARM64 Android with Vulkan. The campaign is playable. |
 | [DroidPlay Core](https://github.com/enjoyerofslop/droidplay-core) | 81 | Many games, incl. Switch 2 | Android | – | 🧰 Tool | nxnative's Android port: Switch and Switch 2 games running natively on Android with Vulkan. Per-game results for handhelds and phones. |
-| [diablo3-port](https://github.com/Desm0nt/diablo3-port) | 51 | Diablo III | Android | – | – | The Switch release of Diablo III as a native ARM64 Android port with touch gestures. Derived from d2r-mobile. |
-| [dsr-native](https://github.com/kvse/dsr-native) | 37 | Dark Souls: Remastered | Android | 1.0.0 | 🟢 Playable | Static recompilation for Android. Very early, but mostly playable at a stable 60 fps. |
+| [diablo3-port](https://github.com/Desm0nt/diablo3-port) | 52 | Diablo III | Android | – | – | The Switch release of Diablo III as a native ARM64 Android port with touch gestures. Derived from d2r-mobile. |
+| [dsr-native](https://github.com/kvse/dsr-native) | 38 | Dark Souls: Remastered | Android | 1.0.0 | 🟢 Playable | Static recompilation for Android. Very early, but mostly playable at a stable 60 fps. |
 | [letsgo-recomp-android](https://github.com/CowKillers/letsgo-recomp-android) | 23 | Pokémon: Let's Go, Eevee! | Android | – | 🟡 Early | Android layer for letsgo-recomp. World, battles and saves work, but text is still invisible. README in Portuguese. |
 | [totkonandroid](https://github.com/AYNThorDeveloper/totkonandroid) | 16 | Tears of the Kingdom | Android | – | 🟡 Early | Experimental ARM64 Android runtime, with the AYN Thor handheld as the reference device. Source only. |
 <!-- END android -->
@@ -173,7 +173,7 @@ General tools for developers who want to recompile a game that has no project ye
 | --- | ---: | --- | --- | --- | --- | --- |
 | [SwitchRECOMP](https://github.com/SwitchRECOMP-Dev/SwitchRECOMP) | 182 | Any game | Windows, Linux | – | 🧰 Tool | Static recompiler for Switch games: translates the ARM64 code to C once and builds a native Windows or Linux program. No games, keys or firmware included. |
 | [kirikae](https://github.com/Cor3Duo/kirikae) | 95 | Any game | Windows, Linux | – | 🧰 Tool | Static recompiler in Rust that turns Switch executables into native PC programs. Early preview, already runs complete 3D games. |
-| [Switch2RECOMP](https://github.com/SwitchRECOMP-Dev/Switch2RECOMP) | 30 | Any game, incl. Switch 2 | Windows, Linux | – | 🧰 Tool | Static recompiler for Switch and Switch 2 games, for Windows and Linux with OpenGL and Vulkan. |
+| [Switch2RECOMP](https://github.com/SwitchRECOMP-Dev/Switch2RECOMP) | 32 | Any game, incl. Switch 2 | Windows, Linux | – | 🧰 Tool | Static recompiler for Switch and Switch 2 games, for Windows and Linux with OpenGL and Vulkan. |
 | [nxrecomp](https://github.com/drakolordx7/nxrecomp) | 16 | Metroid Prime Remastered | Windows | – | 🧰 Tool | Shared recompiler, runtime and tools for running Switch games natively on Windows, with Metroid Prime Remastered as the first target. |
 <!-- END tools -->
 
@@ -192,7 +192,7 @@ Not Switch games: Xbox 360, GameCube, Wii U and PC games recompiled to run on a 
 - [prototype-switch](https://github.com/fungalspores/prototype-switch) (37 ★): Prototype and Prototype 2 (Xbox 360) on a Switch.
 - [conker-lr-recomp](https://github.com/rashevskyv/conker-lr-recomp) (33 ★): Conker: Live & Reloaded (Xbox) on a Switch, Linux and Windows.
 - [mk9-nx](https://github.com/Thorhax/mk9-nx) (32 ★): Mortal Kombat Komplete Edition (Xbox 360) on a Switch.
-- [gears2-nx](https://github.com/VasilkovND/gears2-nx) (31 ★): Gears of War 2 (Xbox 360) on a Switch.
+- [gears2-nx](https://github.com/VasilkovND/gears2-nx) (32 ★): Gears of War 2 (Xbox 360) on a Switch.
 - [Lazarus](https://github.com/VibePorter/Lazarus) (27 ★): Mass Effect 2 (Xbox 360) on a Switch.
 - [bo2-360-nx](https://github.com/AlvaroEPena/bo2-360-nx) (23 ★): Black Ops II (Xbox 360) on a Switch and Windows.
 - [sa2-nx](https://github.com/ChanseyIsTheBest/sa2-nx) (23 ★): Sonic Adventure 2 (Xbox Live Arcade) on a Switch at 60 fps.
@@ -211,9 +211,9 @@ A **decompilation** goes further and rebuilds readable source code by hand. Reco
 ## Related lists
 
 <!-- BEGIN lists -->
-- [awesome-decomp-games](https://github.com/SubmitGame/awesome-decomp-games) (3,000 ★): Decompilations and recompilations for every console, in one big table.
+- [awesome-decomp-games](https://github.com/SubmitGame/awesome-decomp-games) (3,003 ★): Decompilations and recompilations for every console, in one big table.
 - [awesome-game-decompilations](https://github.com/CharlotteCross1998/awesome-game-decompilations) (834 ★): Game decompilation projects.
-- [Awesome REA](https://github.com/AIshihzong/awesome-reverse-engineer-anything) (584 ★): Reverse engineering with AI agents: the tools and skills behind many of the projects here.
+- [Awesome REA](https://github.com/AIshihzong/awesome-reverse-engineer-anything) (610 ★): Reverse engineering with AI agents: the tools and skills behind many of the projects here.
 - [awesome-recompilations](https://github.com/BlueInterlude/awesome-recompilations) (59 ★): N64 and Xbox 360 recompilations.
 <!-- END lists -->
 
